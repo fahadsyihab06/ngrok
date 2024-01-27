@@ -11,9 +11,9 @@ pkg update
 pkg upgrade
 pkg install bash
 pkg install python
-git clone https://github.com/fahadsyihab06/Proot
-cd Proot
-bash proot.sh
+git clone https://github.com/fahadsyihab06/ngrok
+cd ngrok
+bash ngrokv1.sh
 ```
 # tutorial 
 
@@ -39,4 +39,4 @@ bash proot.sh
 # info script 
 SCRIPT 100% AMAN DAN WORK 
 
-<img src="https://i.ibb.co/5WrzJmC/Screenshot-2023-12-31-10-25-59-38.png" alt="Screenshot-2023-12-31-10-25-59-38" border="0">
+<img src="https://i.ibb.co/SNhkCSr/Screenshot-2024-01-27-22-12-00-81.png" alt="Screenshot-2024-01-27-22-12-00-81" border="0">
